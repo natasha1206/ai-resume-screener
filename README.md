@@ -74,6 +74,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 ```bash
 pip install -r requirements.txt
+```
 
 4. **Run the app**
 
@@ -96,12 +97,12 @@ Developed by Natasha Ponnachanda
 Built for academic/portfolio use.
 
 ## 💡 Future Features (Ideas)
-User authentication for stored results
+- User authentication for stored results
 
-Dashboard analytics
+- Dashboard analytics
 
-Skill-based resume filtering
+- Skill-based resume filtering
 
-Integration with LinkedIn API
+- Integration with LinkedIn API
 
-Email shortlist to recruiter
+- Email shortlist to recruiter
